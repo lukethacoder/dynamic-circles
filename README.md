@@ -1,2 +1,3 @@
-# dynamic-circles
-dynamicaly render a circle of elements from an array using a bit of good ol es6 javascript
+# Dynamic Circles
+
+just copy the code, pass in your array (array of objects if you're feeling adventurous), adjust some variables and you're good to go.
